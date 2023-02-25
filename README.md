@@ -2,8 +2,7 @@
 - 👀 I’m interested in blockchain, docker, rust, kotlin, SpringBoot and open source projects
 - 🌱 I’m currently learning rust and SpringBoot
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: contact at pierrickmarie.info, my personal web site:  https://pierrick-marie.github.io or via framagit: https://framagit.org/users/pierrick/starred
-
+- 📫 How to reach me: contact at pierrickmarie.info, my personal web site:  https://pierrick-marie.github.io 
 
 <!---
 pierrick-marie/pierrick-marie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
